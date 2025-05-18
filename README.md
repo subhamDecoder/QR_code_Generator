@@ -1,10 +1,8 @@
-# QR_code_Generator
-This is a js based QR code generator which takes some link or text as an input 
-Link - https://subhamdecoder.github.io/QR_code_Generator/
 # QR Code Generator 🔳
 
 A simple web application to generate QR codes from text or URLs using **HTML**, **CSS**, and **JavaScript**. Users can enter any text or URL, and the app will generate a QR code instantly.
 
+Link - https://subhamdecoder.github.io/QR_code_Generator/
 ---
 
 ## ✨ Features
