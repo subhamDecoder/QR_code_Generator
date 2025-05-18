@@ -31,17 +31,3 @@ qr-code-generator/
 ├── style.css # Stylesheet for styling the app
 ├── QR.js # JavaScript file to generate the QR Code
 └── README.md # Project description
-
-yaml
-Copy
-Edit
-
----
-
-## 📦 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/qr-code-generator.git
-cd qr-code-generator
